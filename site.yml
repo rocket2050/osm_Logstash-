@@ -3,4 +3,4 @@
 - hosts: [webserver]
   become: true
   roles: 
-    - logstash
+    - osm_Logstash
